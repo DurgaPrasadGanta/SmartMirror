@@ -12,3 +12,6 @@ There is a feature in this smart mirror that will let you know if you have spent
 6) There is Day Mode and Night Mode to the mirror that adjusts the light of the mirror according to the time of the day
 7) The mirror lets you access your social media and news feed (coming soon).
 8) There is an option called moods that would play a specific playlist to suit your mood
+
+## Result
+![1](https://user-images.githubusercontent.com/56169161/107860491-3fd8d980-6e05-11eb-8c3b-490dc9e55671.PNG)
